@@ -2,7 +2,7 @@
 //
 
 #include "framework.hpp"
-#include "Cpp_WinAPI_Fullscreen_Sample.hpp"
+#include "Cpp_WinAPI_Window_Sample.hpp"
 
 #define MAX_LOADSTRING 100
 
